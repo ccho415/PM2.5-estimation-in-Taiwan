@@ -1,5 +1,7 @@
 # PM2.5-estimation-in-Taiwan
-Annual and monthly average estimations of PM2.5 in 3km*3km grids in Taiwan during 2006 to 2017
+Annual and monthly average estimations of PM2.5 in 3km*3km grids in Taiwan during 2006 to 2017 were uploaded.
+In each file, the variables ID, x, and y represnt the code of the gird, the Longitude of the center point of gird, the Longitude of the center point of gird, respectively.
+The unit of final_PM25 is ug/m3.
 
 The database was producted by our work.
 The reference is as below: 
